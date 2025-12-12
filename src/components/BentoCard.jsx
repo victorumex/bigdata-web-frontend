@@ -1,3 +1,4 @@
+// components/BentoCard.jsx
 import React from 'react';
 
 const BentoCard = ({ children, className = "", title }) => (
